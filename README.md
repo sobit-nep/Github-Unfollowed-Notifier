@@ -28,7 +28,7 @@ Github Unfollowed Notifier is a Python script that helps you identify GitHub use
 ## Usage
 1. Open the unfollowed_notifier.py file.
 
-2. Replace "your_username" and "your_token" with your GitHub username and an access token that has the necessary scope to unfollow users. You can create a personal     access token with the public_repo or repo scope from your GitHub account settings.
+2. Replace "your_username" and "your_token" with your GitHub username and an access token that has the necessary scope to unfollow users. You can create a personal     access token with the public_repo or repo scope from your GitHub account settings.(Click this link to know how to create your github personal access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 3. Run the script:
 
