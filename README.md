@@ -20,7 +20,6 @@ Github Unfollowed Notifier is a Python script that helps you identify GitHub use
    ```bash
    git clone https://github.com/your-username/unfollowed-notifier.git
 
-
 2. Install the required dependencies:
 
    ```bash
