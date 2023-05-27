@@ -32,9 +32,9 @@ Github Unfollowed Notifier is a Python script that helps you identify GitHub use
 
 3. Run the script:
 
-   ```bash
-   python unfollowed_notifier.py
-The script will retrieve your followers and following lists, compare them, and display a list of users who are not following you back.
+    ```bash
+    python unfollowed_notifier.py
+  The script will retrieve your followers and following lists, compare them, and display a list of users who are not following you back.
 
 4. (Optional) To automatically unfollow the users, uncomment the relevant code in the unfollowed_notifier.py script.
 
