@@ -2,12 +2,12 @@ import requests
 
 username = "your_username"
 
-# Get followers
+# Get list of followers
 followers_url = f"https://api.github.com/users/{username}/followers"
 response = requests.get(followers_url)
 followers = response.json()
 
-# Get following
+# Get list of following
 following_url = f"https://api.github.com/users/{username}/following"
 response = requests.get(following_url)
 following = response.json()
